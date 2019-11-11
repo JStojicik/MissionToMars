@@ -12,4 +12,4 @@ construction equipment=5000
 plants=1000
 steel=8000
 books=1000
-water=500
+water=5000
