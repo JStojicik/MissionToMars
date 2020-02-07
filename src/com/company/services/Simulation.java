@@ -1,4 +1,9 @@
-package com.company;
+package com.company.services;
+
+import com.company.models.Item;
+import com.company.models.Rocket;
+import com.company.models.U1;
+import com.company.models.U2;
 
 import java.util.ArrayList;
 import java.util.Scanner;

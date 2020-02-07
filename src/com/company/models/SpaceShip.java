@@ -1,4 +1,6 @@
-package com.company;
+package com.company.models;
+
+import com.company.models.Item;
 
 public interface SpaceShip {
     boolean Launch();
